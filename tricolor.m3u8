@@ -1,0 +1,295 @@
+#EXTM3U url-tvg="http://epg.iptvx.one/epg.xml"
+
+#EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Россия 1
+http://46.32.176.50/rossiya1/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Россия 1 HD
+http://46.32.176.50/RossiyaHD/index.m3u8
+
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Россия К
+http://46.32.176.50/rossiakultura/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", ТНТ 4
+http://46.32.176.50/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", НТВ
+http://46.32.176.50/ntvplus/index.m3u8
+
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Рен ТВ
+http://46.32.176.50/rentv/index.m3u8
+
+#EXTINF:-1 tvg-id="kuhnya-tv" tvg-name="Кухня ТВ" tvg-logo="https://iptvx.one/picons/kuhnya-tv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Кухня ТВ
+http://46.32.176.50/kuxnyatv/index.m3u8
+
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Домашние Животные
+http://46.32.176.50/domashniejivotnie/index.m3u8
+
+#EXTINF:-1 tvg-id="poehali" tvg-name="Поехали!" tvg-logo="https://iptvx.one/picons/poehali.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Поехали!
+http://46.32.176.50/poexali/index.m3u8
+
+#EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Телекафе
+http://46.32.176.50/telekafe/index.m3u8
+
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-name="Живая Планета" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Живая Планета
+http://46.32.176.50/jivayaplaneta/index.m3u8
+
+#EXTINF:-1 tvg-id="avto24" tvg-name="Авто24" tvg-logo="https://iptvx.one/picons/avto24.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Авто24
+http://46.32.176.50/avto24/index.m3u8
+
+#EXTINF:-1 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Авто Плюс
+http://46.32.176.50/avtoplyus/index.m3u8
+
+#EXTINF:-1 tvg-id="nauka" tvg-name="Наука" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Наука
+http://46.32.176.50/nauka/index.m3u8
+
+#EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя планета" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
+
+#EXTINF:-1 tvg-id="big-planet" tvg-name="Big Planet" tvg-logo="https://iptvx.one/picons/big-planet.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Big Planet
+http://46.32.176.50/bigplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://iptvx.one/picons/animal-planet.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Animal Planet
+http://46.32.176.50/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet HD" tvg-logo="https://iptvx.one/picons/animal-planet.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Animal Planet HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Viasat explore
+http://46.32.176.50/viasatexplorer/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Viasat history
+http://46.32.176.50/viasathistory/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Viasat Nature
+http://46.32.176.50/viasatnature/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature HD" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Viasat Nature HD
+http://46.32.176.50/ViasatNatureHD/index.m3u8
+
+#EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Дикий
+http://46.32.176.50/dikiy/index.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-name="History HD" tvg-logo="https://iptvx.one/picons/history.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", History HD
+http://46.32.176.50/HistoryHD/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", TLC
+http://46.32.176.50/tlc/index.m3u8
+
+#EXTINF:-1 tvg-id="ohota-i-rybalka" tvg-name="Охота и Рыбалка" tvg-logo="https://iptvx.one/picons/ohota-i-rybalka.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Охота и Рыбалка
+http://46.32.176.50/oxotoiribalka/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Nat Geo Wild HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Nat Geo Wild
+http://46.32.176.50/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://iptvx.one/picons/discovery.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Discovery Channel HD
+http://46.32.176.50/discoverychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="National Geographic" tvg-logo="https://iptvx.one/picons/nat-geo.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", National Geographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-name="National Geographic HD" tvg-logo="https://iptvx.one/picons/nat-geo.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", National Geographic HD
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+
+#EXTINF:-1 tvg-id="zhivi" tvg-name="Живи" tvg-logo="https://iptvx.one/picons/zhivi.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Живи
+http://46.32.176.50/jivi/index.m3u8
+
+#EXTINF:-1 tvg-id="istoriya" tvg-name="История" tvg-logo="https://iptvx.one/picons/istoriya.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", История
+http://46.32.176.50/istoriya/index.m3u8
+
+#EXTINF:-1 tvg-id="zoopark" tvg-name="Зоопарк" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Зоопарк
+http://46.32.176.50/zoopark/index.m3u8
+
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="https://iptvx.one/picons/kto-est-kto.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Кто есть кто
+http://46.32.176.50/ktoestkto/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000" tvg-name="TV 1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", TV 1000
+http://46.32.176.50/tv1000/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" tvg-name="TV 1000 Action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", TV 1000 Action
+http://46.32.176.50/tv1000action/index.m3u8
+
+#EXTINF:-1 tvg-id="illyuzion-plus" tvg-name="Иллюзион+" tvg-logo="https://iptvx.one/picons/illyuzion-plus.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Иллюзион+
+http://46.32.176.50/illuzion/index.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-illyuzion" tvg-name="Русский Иллюзион" tvg-logo="https://iptvx.one/picons/russkiy-illyuzion.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Русский Иллюзион
+http://46.32.176.50/russkiyiluzion/index.m3u8
+
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/evrokino.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Еврокино
+http://46.32.176.50/eurokino/index.m3u8
+
+#EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино HD" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Мужское кино HD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood HD" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIP Megahit HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", VIP Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIP Premiere HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", VIP Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIP Comedy HD" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", VIP Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="VIP Serial HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", VIP Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+
+#EXTINF:-1 tvg-id="dom-kino" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/dom-kino.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Дом кино
+http://46.32.176.50/domkino/index.m3u8
+
+#EXTINF:-1 tvg-id="dom-kino-premium" tvg-name="Дом Кино Премиум HD" tvg-logo="https://iptvx.one/picons/dom-kino-premium.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Дом Кино Премиум HD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+
+#EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", НСТ
+http://46.32.176.50/nst/index.m3u8
+
+#EXTINF:-1 tvg-id="black" tvg-name=".Black" tvg-logo="https://iptvx.one/picons/black.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", .Black
+http://46.32.176.50/sonyturbo/index.m3u8
+
+#EXTINF:-1 tvg-id="sci-fi" tvg-name=".Sci-Fi" tvg-logo="https://iptvx.one/picons/sci-fi.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", .Sci-Fi
+http://46.32.176.50/sonyscifi/index.m3u8
+
+#EXTINF:-1 tvg-id="tv-xxi" tvg-name="TV XXI" tvg-logo="https://iptvx.one/picons/tv-xxi.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", TV XXI
+http://46.32.176.50/tv21/index.m3u8
+
+#EXTINF:-1 tvg-id="plan-b" tvg-name="Plan B" tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Plan B
+http://46.32.176.50/paramountchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="vremya" tvg-name="Время" tvg-logo="https://iptvx.one/picons/vremya.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Время
+http://46.32.176.50/Vremya/index.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-detektiv" tvg-name="Русский Детектив" tvg-logo="https://iptvx.one/picons/russkiy-detektiv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Русский Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+
+#EXTINF:-1 tvg-id="russkiy-roman" tvg-name="Русский Роман" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Русский Роман
+http://46.32.176.50/russkiyroman/index.m3u8
+
+#EXTINF:-1 tvg-id="kinohit" tvg-name="Кинохит" tvg-logo="https://iptvx.one/picons/kinohit.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Кинохит
+http://46.32.176.50/kinoxit/index.m3u8
+
+#EXTINF:-1 tvg-id="kinoseriya" tvg-name="Киносерия HD" tvg-logo="https://iptvx.one/picons/kinoseriya.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Киносерия HD
+http://46.32.176.50/kinoseria/index.m3u8
+
+#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс HD" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Киномикс HD
+http://46.32.176.50/kinomiks/index.m3u8
+
+#EXTINF:-1 tvg-id="kinosemya" tvg-name="Киносемья HD" tvg-logo="https://iptvx.one/picons/kinosemya.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Киносемья HD
+http://46.32.176.50/kinosemya/index.m3u8
+
+#EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия" tvg-logo="https://iptvx.one/picons/kinokomediya.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Кинокомедия
+http://46.32.176.50/kinokomedia/index.m3u8
+
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское Кино" tvg-logo="https://iptvx.one/picons/indiyskoe-kino.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Индийское Кино
+http://46.32.176.50/indiskoekino/index.m3u8
+
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Киносвидание
+http://46.32.176.50/kinosvidanie/index.m3u8
+
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное Кино" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Родное Кино
+http://46.32.176.50/rodnoekino/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-1" tvg-name="Amedia 1" tvg-logo="https://iptvx.one/picons/amedia-1.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-2" tvg-name="Amedia 2" tvg-logo="https://iptvx.one/picons/amedia-2.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Amedia 2
+http://46.32.176.50/amedia2/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Amedia Hit
+http://46.32.176.50/amediahit/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Amedia Premium
+http://46.32.176.50/AmediaPremium/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium HD" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Amedia Premium HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+
+#EXTINF:-1 tvg-id="lyubimoe-kino" tvg-name="Любимое Кино" tvg-logo="https://iptvx.one/picons/lyubimoe-kino.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Любимое Кино
+http://46.32.176.50/lubimoekino/index.m3u8
+
+#EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Сапфир
+http://46.32.176.50/foxlife/index.m3u8
+
+#EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Кинеко
+http://46.32.176.50/foxrussia/index.m3u8
+
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", ТВ3
+http://46.32.176.50/tv3/index.m3u8
+
+#EXTINF:-1 tvg-id="che" tvg-name="Че" tvg-logo="https://iptvx.one/picons/che.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Че
+http://46.32.176.50/ce/index.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Звезда
+http://46.32.176.50/zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="https://iptvx.one/picons/otr.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", ОТР
+http://46.32.176.50/OTR/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Euronews
+http://46.32.176.50/euronews/index.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta" tvg-name="РТР Планета" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", РТР Планета
+http://46.32.176.50/rtrplaneta/index.m3u8
+
+#EXTINF:-1 tvg-id="tvc" tvg-name="ТВЦ" tvg-logo="https://iptvx.one/picons/tvc.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", ТВЦ
+http://46.32.176.50/tvc/index.m3u8
+
+#EXTINF:-1 tvg-id="domashniy" tvg-name="Домашний" tvg-logo="https://iptvx.one/picons/domashniy.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Домашний
+http://46.32.176.50/domashniy/index.m3u8
+
+#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Мир
+http://46.32.176.50/mir/index.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://iptvx.one/picons/mir-24.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Мир 24
+http://46.32.176.50/mir24/index.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", РБК
+http://46.32.176.50/rbk/index.m3u8
+
+#EXTINF:-1 tvg-id="cbc" tvg-name="CBC" tvg-logo="https://iptvx.one/picons/cbc.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", CBC
+http://46.32.176.50/cbc/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Bridge TV
+http://46.32.176.50/bridgetv/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-classic" tvg-name="Bridge Classic" tvg-logo="https://iptvx.one/picons/bridge-classic.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Bridge Classic
+http://46.32.176.50/rusong/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-deluxe" tvg-name="Bridge Deluxe" tvg-logo="https://iptvx.one/picons/bridge-deluxe.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Bridge Deluxe
+http://46.32.176.50/BridgeTVDance/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-deluxe" tvg-name="Bridge Deluxe HD" tvg-logo="https://iptvx.one/picons/bridge-deluxe.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Bridge Deluxe HD
+http://46.32.176.50/BridgeTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="muztv" tvg-name="Муз ТВ" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Муз ТВ
+http://46.32.176.50/muztv/index.m3u8
+
+#EXTINF:-1 tvg-id="muztv-az" tvg-name="Muz TV AZ" tvg-logo="https://iptvx.one/picons/muztv-az.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Muz TV AZ
+http://46.32.176.50/muztvaz/index.m3u8
+
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", RU TV
+http://46.32.176.50/rutv/index.m3u8
+
+#EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="https://iptvx.one/picons/mcm-top.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", MCM Top
+http://46.32.176.50/mcmtop/index.m3u8
+
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Europa Plus TV
+http://46.32.176.50/europaplus/index.m3u8
+
+#EXTINF:-1 tvg-id="nostalgiya" tvg-name="Ностальгия" tvg-logo="https://iptvx.one/picons/nostalgiya.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Ностальгия
+http://46.32.176.50/nostalgiya/index.m3u8
+
+#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон ТВ" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Шансон ТВ
+http://46.32.176.50/shanson/index.m3u8
+
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="🇷🇺📡 ТРИКОЛОР-ТВ", Музыка Первого
+http://46.32.176.50/muzika1/index.m3u8
