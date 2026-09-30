@@ -74,6 +74,12 @@ https://data01-cdn.11cdn.org/fi2lm/fe401a9382de3e1a2383d0cdf0f7a9bb/7f_Gosti.iz.
 #EXTINF:-1 group-title="Сериал",Гости из прошлого 4
 https://data11-cdn.11cdn.org/fi2lm/fe401a9382de3e1a2383d0cdf0f7a9bb/7f_Gosti.iz.proshlogo.S02.E04.2022.WEB-DL.1080p.v2a1.17.07.26.mp4
 
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA grab",Россия 1 (+4) (2026-09-12)
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/6022/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA grab",Россия 1 (+4) (2026-09-12)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA grab",Россия 1 (+4) (2026-09-12)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000" tvg-name="viju TV1000" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000.png" group-title="Кинозалы",viju TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
