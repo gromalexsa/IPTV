@@ -74,12 +74,30 @@ https://data01-cdn.11cdn.org/fi2lm/fe401a9382de3e1a2383d0cdf0f7a9bb/7f_Gosti.iz.
 #EXTINF:-1 group-title="Сериал",Гости из прошлого 4
 https://data11-cdn.11cdn.org/fi2lm/fe401a9382de3e1a2383d0cdf0f7a9bb/7f_Gosti.iz.proshlogo.S02.E04.2022.WEB-DL.1080p.v2a1.17.07.26.mp4
 
-#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA grab",Россия 1 (+4) (2026-09-12)
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA",Россия 1 (+4)
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/6022/index.m3u8
-#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA grab",Россия 1 (+4) (2026-09-12)
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA",Россия 1 (+4) 
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
-#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA grab",Россия 1 (+4) (2026-09-12)
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="ZARYA",Россия 1 (+4) 
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+
+#EXTINF:0 group-title="ZARYA" tvg-id="2964" tvg-logo="[img]http://epg.one/img2/2964.png[/img]" tvg-rec="0",НТВ +4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6024/index.m3u8
+#EXTINF:0 group-title="ZARYA" tvg-id="2964" tvg-logo="[img]http://epg.one/img2/2964.png[/img]" tvg-rec="0",НТВ +4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6024/index.m3u8
+#EXTINF:0 group-title="ZARYA" tvg-id="162" tvg-logo="http://epg.one/img2/162.png" tvg-rec="3",НТВ +2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/713/index.m3u8
+#EXTINF:0 group-title="ZARYA" tvg-id="2964" tvg-logo="http://epg.one/img2/2964.png" tvg-rec="0",НТВ +4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/6024/index.m3u8
+#EXTINF:0 group-title="ZARYA" tvg-id="2964" tvg-logo="http://epg.one/img/2964.png" tvg-rec="0",НТВ +4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KVYY3LCALLTXGT/6024/index.m3u8
+
+#EXTINF:-1 group-title="ZARYA" tvg-logo="http://epg.one/img2/3035.png",Звезда (+4)
+http://vod.tuva.ru:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="ZARYA" tvg-logo="http://epg.one/img2/3035.png",Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 group-title="ZARYA" tvg-logo="https://p.rapidnas.org/img/logos/efir/zvezda-pl4.png",Звезда +4
+http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDA_4.m3u8
 
 #EXTINF:-1 tvg-id="vijuTV1000" tvg-name="viju TV1000" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000.png" group-title="Кинозалы",viju TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
